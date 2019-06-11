@@ -10,4 +10,4 @@ This approach considers the Mondego River as a case study and allows the use of 
 
 ## Troubleshooting
 
-Jupyter Notebook or IPython Notebook files with a .ipynb extension on GitHub, they will render as static HTML files in the repository. The interactive features of the notebook, such as custom JavaScript plots, will not work on GitHub. So, to view the Jupyter notebook river_hydrodynamics_simulatins.ipynb in this repository you can use [nbviewer](https://nbviewer.jupyter.org/).
+Jupyter Notebook or IPython Notebook files with a .ipynb extension on GitHub, they will render as static HTML files in the repository. The interactive features of the notebook, such as custom JavaScript plots, will not work on GitHub. Therefore, to view properly the Jupyter notebook river_hydrodynamics_simulatins.ipynb in this repository you can use [nbviewer](https://nbviewer.jupyter.org/).
